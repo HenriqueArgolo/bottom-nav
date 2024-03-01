@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/Home"
+        android:title="Home"
+        android:icon="@drawable/home_ic"/>
+
+    <item android:id="@+id/Profile"
+        android:title="Agendado"
+        android:icon="@drawable/profile_ic"/>
+
+    <item android:id="@+id/asadasdsd"
+        android:title=""
+        />
+
+    <item android:id="@+id/Settings1"
+        android:title="Buscar"
+        android:icon="@drawable/search_ic"/>
+
+    <item android:id="@+id/Settings"
+        android:title="Configuraçõs"
+        android:icon="@drawable/_669250_settings_ic_icon"/>
+
+</menu>
